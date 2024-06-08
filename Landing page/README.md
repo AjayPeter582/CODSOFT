@@ -1,7 +1,7 @@
 # Review
 ## Task 1 - Landing page
 ## Task Description
-Develop a responsive landing page for a food delivery service using HTML and CSS. This project will help you practice structuring HTML content, linking CSS stylesheets, and ensuring a responsive and visually appealing design.
+To develop a responsive landing page for a food delivery service using HTML and CSS. It requires basic knowledge of HTML and CSS. Through this project, I have learned to create columns, divide sections, arrange items, and add headers and footers.
 
 ## Front Section:
 
