@@ -24,3 +24,9 @@ Description of the organization and its services.
 Complaint link for users to raise issues.
 
 ## Preview
+
+Main page: ![Screenshot (306)](https://github.com/AjayPeter582/CODSOFT/assets/128886618/ae647d09-0a8b-4b3a-875c-e0507076fa1d)
+
+Contact - Us page: ![Screenshot (308)](https://github.com/AjayPeter582/CODSOFT/assets/128886618/bd9e935c-c752-4f29-9683-3f84dd47d64f)
+
+About Us page: ![Screenshot (307)](https://github.com/AjayPeter582/CODSOFT/assets/128886618/339f089b-fae0-4840-ba5b-10f254b1b3ec)
