@@ -7,3 +7,9 @@ This repository showcases the tasks and projects I completed during my web devel
 ## Task Description
 
 To develop a responsive landing page for a food delivery service using HTML and CSS. Through this project, I have learned to create columns, divide sections, arrange items, and add headers and footers.
+
+# Task 2 - PORTFOLIO
+
+## TasK Description
+
+To 
