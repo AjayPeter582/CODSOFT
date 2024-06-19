@@ -12,4 +12,6 @@ To develop a responsive landing page for a food delivery service using HTML and 
 
 ## TasK Description
 
-To 
+Creating a personal portfolio using CSS and HTML with a header section, about section, skills section, project section and contact me section.  Through this project, i have many CSS properties.
+
+# Task 3 - CALCULATOR
