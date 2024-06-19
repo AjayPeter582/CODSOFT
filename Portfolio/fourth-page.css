@@ -1,0 +1,83 @@
+.fourth-page{
+    background-image: url("contact wallpaper 20.jpg");
+    background-size: cover;
+    height:100vh;
+}
+.fourth-header{
+    height: 15vh;
+    border-style: solid;
+    box-shadow:5px 5px 10px rgb(192, 199, 198);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+}
+
+.fourth-main{
+    padding-top:90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fourth-option{
+    display:flex;
+    flex-direction: column;
+    row-gap: 20px;
+    align-items: center;
+    justify-content: center;
+    border-style: solid;
+    color:white;
+    padding:25px;
+    border-radius:10px;
+}
+
+.fourth-option p{
+    font-size:22px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 0;
+}
+
+.four-input{
+    background-color: transparent;
+    border-style:none none solid none;
+    width:480px;
+    height:5vh;
+    padding-left:9px;
+    color:white;
+}
+
+.four-input::placeholder{
+    color:white;
+    font-size:20px;
+}
+
+.four-input:active{
+    border-style:none none solid none;
+}
+
+.about-box{
+    background-color: transparent;
+    border-style:solid;
+    width:500px;
+    height:20vh;
+}
+
+.send-button{
+    width:100px;
+    height:40px;
+    font-size:17px;
+    border-radius: 6px;
+    background-color: rgb(255, 255, 255,0.2);
+    cursor:pointer;
+}
+
+.send-button:hover{
+    box-shadow:5px 5px 10px rgba(0,0,0,0.8);
+    transition: 0.35s;
+}
+
+.send-button:active{
+    background-color: white;
+    transition: 0.15s;
+}

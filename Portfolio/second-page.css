@@ -1,0 +1,93 @@
+p{
+    color:white;
+}
+
+.second-page{
+    height:100vh;
+    border-style:solid;
+    background-image: url("project background.jpg");
+    background-size:cover;
+    height:100vh;
+}
+
+.education{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height:15vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(237, 237, 227, 0.1);
+    box-shadow:5px 5px 10px rgba(0,0,0,0.5);
+}
+
+.education{
+    font-size:40px;
+    color:aliceblue;
+}
+
+.projects{
+    height:75vh;
+    font-family:sans-serif;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.project-one{
+    color:white;
+    border-style: solid;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width:460px;
+    border-radius:20px;
+    height:62vh;
+    padding-left:10px;
+}
+
+.project-one a{
+    color:white;
+    font-size: 20px;
+}
+
+.project-two{
+    border-style:solid;
+    color:white;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 62vh;
+    max-width: 450px;
+    border-radius:20px;
+    padding-left:10px;
+}
+
+.project-two a{
+    color:white;
+    font-size:20px;
+}
+
+.project-title{
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+.project-desc{
+    font-size: 18px;
+    word-spacing: 4px;
+    padding-left:7px;
+}
+
+.project-one:hover{
+    box-shadow:5px 5px 10px rgba(255, 255, 255, 0.9);
+    padding:7px;
+    transition: 0.35s;
+}
+
+.project-two:hover{
+    box-shadow:5px 5px 10px rgba(255, 255, 255, 0.9);
+    padding:7px;
+    transition: 0.35s;
+}
