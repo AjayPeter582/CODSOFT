@@ -18,5 +18,5 @@ Creating a personal portfolio using CSS and HTML with a header section, about se
 
 ## Task Description
 
-
+Creating a basic calculator using CSS, HTML, and JavaScript involves building an interactive interface with buttons for performing arithmetic operations like addition, subtraction, multiplication, and division. The calculator will feature a display screen to show user input and results. By utilizing the CSS grid system, the buttons can be aligned neatly in a grid layout.
 
