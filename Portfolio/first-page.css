@@ -1,0 +1,86 @@
+body{
+    margin:0;
+}
+
+.first-page{
+    background-image: url("Images/wallpaper 4.jpg");
+    background-size: cover;
+    height:100vh;
+}
+
+.social-media img{
+    width: 32px;
+    padding:6px;
+}
+
+.intro{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding-top:60px;
+    margin-top:80px;
+}
+
+.intro-text{
+    width:550px;
+    padding-left:40px;
+    margin-left:100px;
+}
+
+.intro-text button{
+    width:120px;
+    padding:10px;
+    background-color: transparent;
+    color: white;
+    font-size: 20px;
+    border-radius:15px;
+    cursor:pointer;
+}
+
+.intro-text button:hover{
+    box-shadow:5px 5px 10px rgba(0,0,0,0.2);
+}
+
+.hi{
+    font-size:50px;
+    color:rgb(56, 131, 184);
+    font-family: arial;
+}
+
+.desc{
+    color:white;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.intro-imag{
+    display: flex;
+    column-gap: 0px;
+    justify-content: flex-end;
+    margin-right:0
+}
+
+.social-media{
+    display: flex;
+    flex-direction: column;
+    row-gap: 5px;
+    align-items: flex-end;
+    justify-content: center;
+    width:50px;
+    padding-right:15px;
+}
+
+.intro-imag img{
+    max-width: 350px;
+    border-radius: 200px;
+}
+
+.profile-pic{
+    margin-right:150px;
+}
+
+.social-media img:hover{
+    width:40px;
+    transition:0.35s;
+}
